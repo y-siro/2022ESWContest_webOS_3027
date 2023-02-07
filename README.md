@@ -26,7 +26,7 @@
 - 개발 환경 : Nodejs
 - 라이브러리 : PeerJs, socket.io
 - 프레임워크 : Express.js
-- Tool : VSCode>
+- Tool : VSCode
 - 배포 : Heroku 
 
 ### 팀 명단
