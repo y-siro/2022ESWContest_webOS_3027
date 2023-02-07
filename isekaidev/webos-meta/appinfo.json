@@ -1,0 +1,24 @@
+{
+	"id": "com.sl.app",
+	"version": "1.0.0",
+	"vendor": "LGE-SVL",
+	"type": "web",
+	"main": "index.html",
+	"title": "Enact App Template",
+	"icon": "icon.png",
+	"miniicon": "icon-mini.png",
+	"largeIcon": "icon-large.png",
+	"uiRevision": 2,
+
+	"allowVideoCapture": true,
+	"allowAudioCapture": true,
+	"allowWebOSVDA": true,
+	"requiredPermissions": [
+		"time.query",
+		"activity.operation",
+		"all",
+		"notification.operation",
+		"camera.operation",
+		"com.sl.app.service.group"
+	]
+}
