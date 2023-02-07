@@ -32,8 +32,8 @@
 ### 팀 명단
 |이름|이메일|역할|
 |----|----|----|
-|이규열|dlrbduf1346@naver.com|총괄, 하드웨어 관련 개발|
+|이규열|dlrbduf1346@naver.com|총괄|
 |박성우|psw209@chungbuk.ac.kr|webRTC 서버 구축|
-|김태현|xogus5070318@gmail.com|Web App 개발, 데이터베이스 구축|
+|김태현|xogus5070318@gmail.com|Web App 개발|
 |심민경|alals123426@gmail.com|수어 인식 연구|
 |이동헌|ldh97654@icloud.com|수어 인식 연구|
